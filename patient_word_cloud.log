@@ -1,0 +1,5 @@
+2024-04-07 15:09:50,262 - INFO - START patient_word_cloud =============================================
+2024-04-07 15:09:50,262 - INFO - START patient_word_cloud Start Time = 2024-04-07 15:09:50
+2024-04-07 15:09:50,262 - INFO - patient_word_cloud Step 0 - Initialize the configuration file parser
+2024-04-07 15:10:50,554 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-04-07 15:10:50,554 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
