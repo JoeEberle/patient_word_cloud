@@ -46,4 +46,7 @@ To get started with the **Patient Word Cloud** solution repository, follow these
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](heart.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](wordcloud_output.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](heart.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](wordcloud_output.png)  <br>
+    
