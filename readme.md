@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Patient Word Cloud - Solution for Patient Word Cloud
 Solution for Patient Word Cloud
 
@@ -9,8 +11,6 @@ Welcome to the solution **Patient Word Cloud** - an example for your projects
 Solution for Patient Word Cloud
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
