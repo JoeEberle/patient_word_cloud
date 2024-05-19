@@ -34,6 +34,7 @@ To get started with the **Patient Word Cloud** solution repository, follow these
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
  ![additional_image](heart.png)  <br>![additional_image](wordcloud_output.png)  <br>
