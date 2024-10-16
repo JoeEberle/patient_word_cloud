@@ -39,11 +39,8 @@ To get started with the **Patient Word Cloud** solution repository, follow these
  ![additional_image](heart.png)  <br>![additional_image](wordcloud_output.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
