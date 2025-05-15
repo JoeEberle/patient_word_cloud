@@ -51,13 +51,3 @@ To get started with the **Patient Word Cloud** solution repository, follow these
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](heart.png)  <br>![additional_image](wordcloud_output.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
